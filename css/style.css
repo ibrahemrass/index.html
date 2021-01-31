@@ -1,0 +1,31 @@
+body header h1 {
+    color: rgb(0, 0, 0); text-align: center;
+}
+
+body header ul li a {
+    display: inline-table; text-decoration: none; margin: 20px; text-decoration: solid
+    ; text-decoration-color: rgb(184, 147, 28); font-size: larger;
+    color: rgb(131, 7, 65);
+  
+    
+}
+
+section h2 {
+    text-align: center; text-shadow: gray; color: rgb(68, 19, 19);
+}
+
+section p {
+    color: rgb(63, 117, 148);
+}
+
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/780387.jpg);
+
+}
+section p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: rgb(216, 49, 49);
+}
+
